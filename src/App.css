@@ -1,0 +1,26 @@
+.bg-color {
+  background-image: url('../src/HomePage/images/bg1.jpeg');
+  background-repeat:no-repeat;
+  background-size:contain;
+  background-position:center;
+  background-size:cover;
+}
+
+.item-dashboard {
+    background-color: #15466b;
+}
+
+/* Navbar */
+.navbar-nav a {
+  font-size: 18px;
+  ;
+}
+
+.profile-container{
+  background-color:  #FFFDD0;
+}
+
+.footer{
+  background-color: #212529;
+  color: white;
+}

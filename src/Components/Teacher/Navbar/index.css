@@ -1,0 +1,30 @@
+.myLMS {
+    font-size: x-large;
+    font-weight: bold;
+    background: #15CDFC;
+    background: radial-gradient(ellipse farthest-corner at center center, #15CDFC 39%, #8edfff 81%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.dashboard-color {
+    font-size: x-large;
+    font-weight: bold;
+    background: #15CDFC;
+    background: radial-gradient(ellipse farthest-corner at center center, #15CDFC 39%, #8edfff 81%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.profile-text {
+    font-size: x-large;
+    font-weight: bold;
+    background: #15CDFC;
+    background: radial-gradient(ellipse farthest-corner at center center, #FFED8A 39%, #ffce8e 81%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.teacher-dashboard {
+    padding-left: 80px;
+}

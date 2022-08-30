@@ -1,0 +1,8 @@
+.myLMS {
+    font-size: x-large;
+    font-weight: bold;
+    background: #15CDFC;
+    background: radial-gradient(ellipse farthest-corner at center center, #15CDFC 39%, #8edfff 81%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
